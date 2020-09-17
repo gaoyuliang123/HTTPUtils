@@ -21,7 +21,7 @@ package de.taimos.httputils;
  */
 
 /**
- * @author thoeger
+ * @author thoeger1
  */
 public final class WS {
 
